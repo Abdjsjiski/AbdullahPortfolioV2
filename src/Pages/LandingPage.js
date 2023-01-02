@@ -130,15 +130,8 @@ function DropdownMenu() {
           <DropdownItem goToMenu="main" leftIcon={<ArrowBackIcon />}>
             <h2>Go Back</h2>
           </DropdownItem>
-          <DropdownItem leftIcon={<MilitaryTechIcon/>}> <a href="https://docs.google.com/document/d/1PypOu-F2t7ar61AjIOjEE1MvWGjN-eYztyMCJTdxco4/edit" target="_blank" rel="noreferrer nofollow" >Credits / Disclaimer</a></DropdownItem>
-          <DropdownItem leftIcon={<NoteAltIcon/>}> <a href="https://docs.google.com/document/d/1RDeBLVHQaY_MQDHz9V6sPYt3Pn46DLfTRGzsvH61KXw/edit" target="_blank" rel="noreferrer nofollow" >Terms of Conditions</a> </DropdownItem>
-          <DropdownItem leftIcon={<AccessibilityIcon/>}> <a href="https://docs.google.com/document/d/1k3PhYMJeK8cVYZ4mw4ljmmV4ESkTY7KQm_pKFf2ZyY8/edit?usp=sharing" target="_blank" rel="noreferrer nofollow" >Accessibility</a> </DropdownItem>
-          <DropdownItem leftIcon={<PolicyIcon/>}> <a href="https://docs.google.com/document/d/13nK7zk81KKkTlhgNNZCcxBso3Vt_Ut45oRDeOMkpfR0/edit" target="_blank" rel="noreferrer nofollow" >Privacy / Security / Data Collection and Mangament</a></DropdownItem>
-          <DropdownItem leftIcon={<CookieIcon/>}> <a href="https://docs.google.com/document/d/1bwoxrFEAi7wqnCqYezyZdCIS0SFU6UnKWjmBi6hqd2w/edit" target="_blank" rel="noreferrer nofollow" >Cookie Usage / Cookie Policy</a> </DropdownItem>
-          <DropdownItem leftIcon={<CopyrightIcon/>}> <a href="https://docs.google.com/document/d/1AE1JTCLhnSIs-igztBOMIPANsnjrRmdycPQuCEHWuW0/edit" target="_blank" rel="noreferrer nofollow" >Copyrighting</a> </DropdownItem>
-          <DropdownItem leftIcon={<ReportGmailerrorredIcon/>}> <a href="https://docs.google.com/document/d/1dsy7D49HQjwCX5Jc7KudmNleQIsriZtVmKfOqxGRT3w/edit" target="_blank" rel="noreferrer nofollow" >Anti Spam Laws</a></DropdownItem>
-          <DropdownItem leftIcon={<UsbIcon/>}> <a href="https://docs.google.com/document/d/1WeZEdoiR0kpILg7NzN16xM5O4WPVOjs7TCyp_pJvYD8/edit?usp=sharing" target="_blank" rel="noreferrer nofollow" > Version Control</a></DropdownItem>
-          <DropdownItem leftIcon={<InfoIcon/>}> <a href="https://forms.gle/XWdb1RKJ2zPRLg1y7" target="_blank" rel="noreferrer nofollow" >DSAR (Delete / Give me the data you own)</a></DropdownItem>
+          <DropdownItem leftIcon={<UsbIcon/>}> <a href="https://docs.google.com/document/d/1WeZEdoiR0kpILg7NzN16xM5O4WPVOjs7TCyp_pJvYD8/edit?usp=sharing" target="_blank" rel="noreferrer nofollow" > Updates / Version Control</a></DropdownItem>
+          <DropdownItem leftIcon={<InfoIcon/>}> <a href="https://forms.gle/XWdb1RKJ2zPRLg1y7" target="_blank" rel="noreferrer nofollow" >Website issues / Form </a></DropdownItem>
         </div>
       </CSSTransition>
     </div>
